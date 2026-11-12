@@ -1,0 +1,23 @@
+# MATLAB temporary files
+*.asv
+*.m~
+*.autosave
+
+# MATLAB generated files
+slprj/
+codegen/
+*.slxc
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Python cache (if applicable)
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Environment variables and secrets
+.env
