@@ -295,5 +295,5 @@ This project is intended for educational and research purposes. The implemented 
 
 ## Authors
 
-Ichrak Ayadi & Emna Ghorbel
+Ichrak Ayadi & Emna Ghorbel  
 Developed for a Signal processing course at ENIT.
